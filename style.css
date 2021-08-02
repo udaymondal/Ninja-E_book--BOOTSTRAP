@@ -1,0 +1,10 @@
+section {
+  padding: 60px 0px;
+}
+nav .navbar-nav li a {
+  color: white !important;
+}
+.logo-or-text {
+  color: rgb(255, 255, 255) !important;
+}
+
