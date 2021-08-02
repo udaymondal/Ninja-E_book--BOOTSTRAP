@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaymondal/Ninja-E_book--BOOTSTRAP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaymondal/Ninja-E_book--BOOTSTRAP/issues"
+  },
+  "homepage": "https://github.com/udaymondal/Ninja-E_book--BOOTSTRAP#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
