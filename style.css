@@ -7,4 +7,8 @@ nav .navbar-nav li a {
 .logo-or-text {
   color: rgb(255, 255, 255) !important;
 }
-
+.bi-star,
+.bi-star-half,
+.bi-star-fill{
+	color: goldenrod !important;
+}
